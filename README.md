@@ -7,9 +7,9 @@ Join us at The Iron Yard with our instructors to learn the basics of APIs and le
 
 In this session, we will learn:
 
-• The basics of an API.
-• How to connect to an API.
-• Now that I am connected to an API, what can I do with it?
+* The basics of an API.
+* How to connect to an API.
+* Now that I am connected to an API, what can I do with it?
 
 
 
